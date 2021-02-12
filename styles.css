@@ -1,0 +1,13 @@
+/*selector {propieddad:valor}*/
+table {
+	text-align: center;
+	border: 1px solid black;
+}
+thead {
+	background-color: rgb(26, 23, 199);
+	color: white;
+	font-size: 30px;
+}
+tbody {
+	background-color: rgb(80, 103, 207);
+}
